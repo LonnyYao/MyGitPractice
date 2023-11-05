@@ -12,3 +12,5 @@ v5: add new branch dev from master
 	add new branch bugfix from master
 
 v6: bugfix is done(v6.1)
+
+v7: development new module in dev branch
